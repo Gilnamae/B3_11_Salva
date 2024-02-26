@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+}
+.title{
+    text-align: center;
+}
+.text h3{
+    display:flex;
+    justify-content: center;
+    align-items: center;  
+}
+.text{
+    margin-left: 12px;
+}
